@@ -1,2 +1,2 @@
-# PreCouse-Henry
-modulo 2 de precourse henry
+Olmos Gustavo.
+ESto es una prueba de como clonar un repositorio con git.
